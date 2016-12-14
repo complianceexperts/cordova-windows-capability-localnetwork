@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="echoplugin"
+    version="0.1.0">
+
+    <name>Windows Add privateNetworkClientServer Capability</name>
+    <description>Add privateNetworkClientServer Capability to appxmanifest</description>
+
+    <!-- windows -->
+    <platform name="windows">
+       <config-file target="package.appxmanifest" parent="/Package/Capabilities">
+          <Capability Name="privateNetworkClientServer" />
+       </config-file>
+    </platform>
+
+</plugin>
