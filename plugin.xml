@@ -12,5 +12,4 @@
           <Capability Name="privateNetworkClientServer" />
        </config-file>
     </platform>
-
 </plugin>
