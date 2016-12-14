@@ -1,0 +1,1 @@
+Add privateNetworkClientServer Capability to appxmanifest
