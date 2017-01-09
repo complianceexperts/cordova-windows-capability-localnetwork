@@ -1,6 +1,6 @@
 {
   "name": "cordova-windows-capability-localnetwork",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add privateNetworkClientServer Capability to appxmanifest",
   "cordova": {
     "id": "cordova-windows-capability-localnetwork",
